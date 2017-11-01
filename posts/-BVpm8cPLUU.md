@@ -9,9 +9,9 @@
     "speakers": [],
     "tags": [
         "ethereum",
-	"ethereum light client"
+		"ethereum light client",
         "android",
-	"ios"
+		"ios"
     ],
     "title": "devcon2: Status, an Ethereum light client for Android & iOS",
     "youtubeID": "-BVpm8cPLUU"
