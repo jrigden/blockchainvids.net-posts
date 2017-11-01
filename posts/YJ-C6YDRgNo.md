@@ -9,9 +9,9 @@
     "speakers": ["Steven Waterhouse"],
     "tags": [
         "privacy",
-	"Surveillance",
+		"Surveillance",
         "seven",
-        "security",,
+        "security",
         "ethereum",
         "orchid protocol"
     ],
