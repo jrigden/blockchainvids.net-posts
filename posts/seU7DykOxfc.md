@@ -1,19 +1,18 @@
 {
     "channelID": "UC6rYoXJ_3BbPyWx_GQDDRRQ",
     "channelName": "Ethereum",
+    "date": "2016-01-12T16:48:08.000Z",
     "draft": false,
     "events": [
         "DEVCON1"
     ],
-    "speakers": ["Joris Bontje"],
+    "speakers": ["Christian Reitwiessner"],
     "tags": [
         "ethereum",
         "smart contracts",
-        "blockchain",
-        "ÐApps",
         "solidity",
-        "Design Patterns"
+        "dapps"
     ],
-    "title": "DEVCON1: DApp Design Patterns  - Joris Bontje",
-    "youtubeID": "XkJ8mg-R7C0"
+    "title": "DEVCON1: Building a DApp: Writing contracts - Christian Reitwiessner",
+    "youtubeID": "seU7DykOxfc"
 }

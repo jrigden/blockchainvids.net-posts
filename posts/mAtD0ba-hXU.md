@@ -1,19 +1,21 @@
 {
     "channelID": "UC6rYoXJ_3BbPyWx_GQDDRRQ",
     "channelName": "Ethereum",
+    "date": "2015-12-22T12:06:39.000Z",
     "draft": false,
     "events": [
         "DEVCON1"
     ],
-    "speakers": ["Joris Bontje"],
+    "speakers": ["Casey Detrio"],
     "tags": [
         "ethereum",
         "smart contracts",
         "blockchain",
-        "ÐApps",
-        "solidity",
-        "Design Patterns"
+        "economics",
+        "dapp",
+        "solidity"
+
     ],
-    "title": "DEVCON1: DApp Design Patterns  - Joris Bontje",
-    "youtubeID": "XkJ8mg-R7C0"
+    "title": "DEVCON1: Liquidity on Blockchains - Casey Detrio",
+    "youtubeID": "mAtD0ba-hXU"
 }

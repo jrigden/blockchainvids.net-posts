@@ -1,19 +1,20 @@
 {
     "channelID": "UC6rYoXJ_3BbPyWx_GQDDRRQ",
     "channelName": "Ethereum",
+    "date": "2015-12-22T12:04:23.000Z",
     "draft": false,
     "events": [
         "DEVCON1"
     ],
-    "speakers": ["Joris Bontje"],
+    "speakers": ["R. Tyler Smith"],
     "tags": [
         "ethereum",
         "smart contracts",
-        "blockchain",
-        "ÐApps",
+        "vunk",
         "solidity",
-        "Design Patterns"
+        "gaming"
+
     ],
-    "title": "DEVCON1: DApp Design Patterns  - Joris Bontje",
-    "youtubeID": "XkJ8mg-R7C0"
+    "title": "DEVCON1: FreeMyVunk: Join the movement  -  R. Tyler Smith",
+    "youtubeID": "AzGHtX0yaiw"
 }

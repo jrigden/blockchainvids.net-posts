@@ -5,10 +5,11 @@
     "events": [
         "DEVCON1"
     ],
-    "speakers": [],
+    "speakers": ["Aaron Davis"],
     "tags": [
         "ethereum",
-        "lightning talk"
+        "lightning talk",
+	"Metamask"
     ],
     "title": "DEVCON1: Lightning Talk: Metamask.io - Aaron Davis",
     "youtubeID": "Gz7yVz2iYK8"

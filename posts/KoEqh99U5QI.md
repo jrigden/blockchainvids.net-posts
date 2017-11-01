@@ -1,19 +1,19 @@
 {
     "channelID": "UC6rYoXJ_3BbPyWx_GQDDRRQ",
     "channelName": "Ethereum",
+    "date": "2015-12-21T10:08:44.000Z",
     "draft": false,
     "events": [
         "DEVCON1"
     ],
-    "speakers": ["Joris Bontje"],
+    "speakers": ["Zsolt Felfold"],
     "tags": [
         "ethereum",
         "smart contracts",
         "blockchain",
-        "ÐApps",
-        "solidity",
-        "Design Patterns"
+	"client"
+
     ],
-    "title": "DEVCON1: DApp Design Patterns  - Joris Bontje",
-    "youtubeID": "XkJ8mg-R7C0"
+    "title": "DEVCON1: Progressing toward the Ethereum Light Client - Zsolt Felfoldi",
+    "youtubeID": "KoEqh99U5QI"
 }
