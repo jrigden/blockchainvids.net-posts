@@ -9,7 +9,7 @@
     "speakers": ["Matt Suiche"],
     "tags": [
         "security",
-        "porosity",,
+        "porosity",
         "decompiler",
         "smart contracts",
         "solidity"
