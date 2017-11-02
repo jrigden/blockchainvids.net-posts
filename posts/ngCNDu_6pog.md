@@ -1,0 +1,13 @@
+{
+    "channelID": "UCWZk8psp5LkDIMaumwt8-wg",
+    "channelName": "Fintech Week",
+    "date": "2017-02-08T02:08:32.000Z",
+    "draft": false,
+    "events": [
+        "London Blockchain Week 2017"
+    ],
+    "speakers": [],
+    "tags": [],
+    "title": "The Future of Blockchain",
+    "youtubeID": "ngCNDu_6pog"
+}
