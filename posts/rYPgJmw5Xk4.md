@@ -1,0 +1,13 @@
+{
+    "channelID": "UChsdzfbefg37TGNcGcG2Dqg",
+    "channelName": "Christian Peel",
+    "date": "2015-01-12T13:19:28.000Z",
+    "draft": false,
+    "events": [
+        ""
+    ],
+    "speakers": [],
+    "tags": [],
+    "title": "MVI 0018",
+    "youtubeID": "rYPgJmw5Xk4"
+}
